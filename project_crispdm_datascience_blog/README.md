@@ -29,3 +29,6 @@ This repo contains one file, called 'Seattle_ABNB_analysis-MikeBong.ipynb' that 
 
 ### 4. Licensing, Authors, Acknowledgements, etc.
 The Seattle AirBnB data was obtained from Kaggle. Other references are cited within the notebook.
+
+### 5. Associated pages
+Link to Medium post driven by this analysis: https://medium.com/@michael.botehi/deep-dive-into-seattle-airbnb-data-focusing-on-maximising-revenue-eab2a8d95db2
