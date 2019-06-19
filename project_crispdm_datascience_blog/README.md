@@ -32,3 +32,4 @@ The Seattle AirBnB data was obtained from Kaggle. Other references are cited wit
 
 ### 5. Associated pages
 Link to Medium post driven by this analysis: https://medium.com/@michael.botehi/deep-dive-into-seattle-airbnb-data-focusing-on-maximising-revenue-eab2a8d95db2
+Link to Kaggle kernel: https://www.kaggle.com/mbth11/seattle-abnb-analysis
