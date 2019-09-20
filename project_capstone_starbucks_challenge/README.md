@@ -36,4 +36,4 @@ This repo contains one file, called 'Starbucks_Capstone_challenge-MikeBong.ipynb
 The Starbucks simulated app data was obtained from Udacity and Starbucks. Other references are cited within the notebook.
 
 ### 5. Associated pages
-Link to Medium post driven by this analysis: TBC
+Link to Medium post driven by this analysis: https://medium.com/@michael.botehi/starbucks-challenge-predicting-effective-offers-using-app-user-data-ab9df4f1eef1
